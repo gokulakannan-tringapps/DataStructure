@@ -39,6 +39,7 @@ public class Stack_ds {
 						break;
 				case 4: display(stack);
 						break;
+				default: break;
 				}
 				if(choice==5)
 					break;
